@@ -15,6 +15,12 @@ The project focuses on:
 Interactive charts were created using Plotly for better data exploration.
 
 ---
+## Dataset
+
+The dataset used in this project was sourced from publicly available COVID-19 datasets.
+
+Dataset Source:
+[https://www.kaggle.com/](https://www.kaggle.com/datasets/abhishekbagwan/covid-dataset-csv)
 
 ## Technologies Used
 
