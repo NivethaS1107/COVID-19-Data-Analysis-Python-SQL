@@ -65,4 +65,10 @@ Interactive charts were created using Plotly for better data exploration.
 
 ---
 
+## Note
+
+Interactive Plotly charts may not render properly in GitHub notebook preview.
+
+All generated visualization charts are available inside the `visualization_charts` folder.
+
 
